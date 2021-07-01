@@ -3,4 +3,4 @@
  
  biblioteca utilizada no codigo
  
-// pip install secure-smtplib
+pip install secure-smtplib
